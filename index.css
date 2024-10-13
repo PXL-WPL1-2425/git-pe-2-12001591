@@ -1,17 +1,31 @@
 
 nav > div{
     width: 33%;
-
+display: inline-block;
 }
 
 nav {
     position: absolute;
     width: 100%;
+
 }
 
-div{
-    display:inline-block;
-}
+
+
 img{
     height:60px;
+
+}
+ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 14pt;
+
 }
