@@ -10,8 +10,6 @@ nav {
 
 }
 
-
-
 img{
     height:60px;
 
@@ -28,4 +26,13 @@ a {
     text-decoration: none;
     font-size: 14pt;
 
+}
+.sign-in-button {
+    background-color: red;
+    color: black;
+    border: none;
+    border-radius: 40px;
+    padding: 4px 20px;
+    cursor: pointer;
+    font-size: 14pt;
 }
