@@ -1,0 +1,14 @@
+
+nav > div{
+    width: 33%;
+
+}
+
+nav {
+    position: absolute;
+    width: 100%;
+}
+
+div{
+    display:inline-block;
+}
